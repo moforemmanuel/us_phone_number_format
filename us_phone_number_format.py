@@ -9,7 +9,7 @@ def phone(n):
     for i in range(n):
         s += str(num[i])
 
-    return f"({s[0:3]}) {s[3:6]}-{s[6:-1]}
+    return f"({s[0:3]}) {s[3:6]}-{s[6:n]}"
 
 
 print(phone(10))
