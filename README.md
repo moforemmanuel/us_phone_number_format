@@ -1,0 +1,1 @@
+This is a simple python program in which a user inputs an array of 10 integers and a formatted string of a US phone number is returned.
